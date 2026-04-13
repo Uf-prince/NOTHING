@@ -1,3 +1,5 @@
+# [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/NOTHING-X-ACC/NOTHING
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # ( =========> • BILAL-MD • <========= )
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
